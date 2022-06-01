@@ -1,5 +1,5 @@
-import time as sleep #import sleep
-import requests      #import sleep
+from time import sleep #import sleep
+import requests
 
 poruka = 'Kys Faggots'  #Set spam message
 
